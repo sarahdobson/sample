@@ -8,3 +8,7 @@ title: Sample document
 
 * Writing in markdown
 * Committing changes
+
+## Editing a document
+
+* Creating a pull request
