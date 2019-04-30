@@ -19,9 +19,7 @@
 
 1. numbered list one
 2. numbered list two
-
-  * nested bullet one
-  * nested bullet two
- 
+    - nested bullet one
+    - nested bullet two
 3. numbered list three
 4. numbered list four
